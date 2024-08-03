@@ -163,41 +163,6 @@ to {
 }
 to {
     width: 50%}
-}#Skill-Python {
-    border-radius:20px;
-    -o-animation: Animate-Python 5s;
-    -webkit-animation: Animate-Python 5s;
-    -moz-animation: Animate-Python 5s;
-    animation: Animate-Python 5s;
-    width: 30%;
-    height: 50px;
-    position: absolute;
-    background-color: #6c63ff;
-}
-@keyframes Animate-Python {
-    from {
-    width: 10px;
-}
-to {
-    width: 30%}
-}@-webkit-keyframes Animate-Python {
-    from {
-    width: 10px;
-}
-to {
-    width: 30%}
-}@-moz-keyframes Animate-Python {
-    from {
-    width: 10px;
-}
-to {
-    width: 30%}
-}@-o-keyframes Animate-Python {
-    from {
-    width: 10px;
-}
-to {
-    width: 30%}
 }#Skill-JS {
     -o-animation: Animate-JS 4s;
     -webkit-animation: Animate-JS 4s;
